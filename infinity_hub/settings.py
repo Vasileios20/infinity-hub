@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['infinity-hub-15161149b9fb.herokuapp.com',
-                 'localhost', '127.0.0.1']
+                 'localhost', '127.0.0.1', '8000-vasileios20-infinityhub-tz932j2613n.ws-eu110.gitpod.io']
 
 
 # Application definition

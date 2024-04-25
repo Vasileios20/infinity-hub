@@ -40,6 +40,10 @@ body {
     top: -5rem;
 }
 
+nav a.active {
+    font-weight: bold;
+    color: rgb(21, 21, 22); /* Change color as needed */
+  }
 
 .logo {
     font-size: 20px;

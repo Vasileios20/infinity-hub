@@ -121,9 +121,8 @@ The target audience is females, who are aged 16+, and are living with one or mor
 | US_08  | site user | Create a post in a discussion group and retain right to update/ delete post| safely ask questions of peers | 
 | US_09  | site user | Add replies to someone elses post | provide helpful information to my peers | 
 | US_10  | site user | identify my favourite articles | quickly access them again later | 
-
 | -- | --| --| --|
-| SO_01 | site owner | provide a safe, well-moderated space | to support neurodivergent females through challenging stages of life|
+| SO_01 | site owner | provide a safe, well-moderated space | to support neurodivergent females through challenging stages of life |
 | SO_02 | site owner | moderate/approve posts and replies | to retain the site as a safe space for all users |
 | SO_03 | site owner | moderate user profile changes  | preserve the privacy of posts to users who share a neurodivergence/lifestage (avoid snoopers) |
 | SO_04 | site owner | create and approve articles  | provide authoritative, useful & helpful information to users |
